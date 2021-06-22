@@ -8,6 +8,6 @@
 
 .car {
   width: 50px;
-  height: 100px;
-  background: transparent url('../img/player.png') center / cover no-repeat;
+  height: 110px;
+  background: transparent url('../img/ferrari.png') center / cover no-repeat;
 }
